@@ -1,7 +1,7 @@
 # iomp
 ## in order to do the execution of the following iomp(industry oriented mini project) follow these steps -
 
-### first of all download the zip file present in this repository and unzip it....
+### first of all download the .rar file present in this repository and unzip it..../ if .zip is not working then go wid .rar
 ### now make sure u have a xampp or wampp server installed in ur pc ....if not then better download it...xampp or wampp anything is ok
 ### open any of those and run as administrator or normally open it...on ur bottom right theres a arrow(show hidden icons)... open that arrow and we can see the server running .
 ### click on that and open phpmy admin ... if it asks username then in wampp the username is -- root and password is nthg .. jus click login
